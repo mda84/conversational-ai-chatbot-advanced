@@ -36,7 +36,7 @@ conversational-ai-chatbot-advanced/
 
 ### Clone the Repository
 ```
-git clone https://github.com/yourusername/conversational-ai-chatbot-advanced.git
+git clone https://github.com/mda84/conversational-ai-chatbot-advanced.git
 cd conversational-ai-chatbot-advanced
 ```
 
