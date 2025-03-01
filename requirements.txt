@@ -1,0 +1,9 @@
+gradio==3.25.0
+transformers==4.29.2
+torch==2.0.0+cpu  # or use the CUDA build if you have a GPU
+fastapi==0.95.0
+uvicorn==0.22.0
+peft==0.4.0
+optuna==3.0.0         # Optional: for hyperparameter tuning
+trl==0.5.0
+timm>=0.6.14
